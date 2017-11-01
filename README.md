@@ -1,1 +1,1 @@
-1. npm install
+Clone repo and run index.html
