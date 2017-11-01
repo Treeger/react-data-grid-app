@@ -1,0 +1,30 @@
+{
+  "name": "react-data-grid-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+  },
+  "author": "Konstantin Rebrov",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-data-grid": "^2.0.69",
+    "react-dom": "^16.0.0",
+    "uglifyjs-webpack-plugin": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "eslint": "^4.10.0",
+    "eslint-config-rallycoding": "^3.2.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
